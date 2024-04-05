@@ -266,6 +266,8 @@ One tool that can be used to help generate a lot of realistic randomized data is
 the [Faker library][faker]. This library is already included in the Pipfile for
 this application, so we can try it out.
 
+pip install Faker
+
 Try out some Faker methods in the Flask shell. First import the package and
 instantiate a `Faker` instance:
 
